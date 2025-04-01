@@ -1,0 +1,10 @@
+beautifulsoup4>=4.12.3
+duckdb>=1.2.0
+faker>=36.1.1
+fastapi>=0.115.8
+markdown>=3.7
+openai>=1.63.0
+pillow>=11.1.0
+requests>=2.32.3
+speechrecognition>=3.14.1
+uvicorn>=0.34.0
